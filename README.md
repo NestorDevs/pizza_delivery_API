@@ -1,4 +1,7 @@
-# pizza_delivery_api
+# Pizza Delivery API REST
+
+## Stack 
+Using Aqueduct (Backend Dart), Mysql & Get_it
 
 ## Running the Application Locally
 
